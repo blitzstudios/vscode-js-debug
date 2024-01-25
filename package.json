@@ -1,8 +1,8 @@
 {
   "name": "js-debug",
-  "displayName": "JavaScript Debugger",
-  "version": "1.76.0",
-  "publisher": "ms-vscode",
+  "displayName": "JavaScript Debugger (Sleeper)",
+  "version": "1.0.0",
+  "publisher": "sleeper",
   "author": {
     "name": "Microsoft Corporation"
   },
@@ -26,10 +26,10 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-pwa.git"
+    "url": "https://github.com/blitzstudios/vscode-js-debug.git"
   },
   "bugs": {
-    "url": "https://github.com/Microsoft/vscode-pwa/issues"
+    "url": "https://github.com/blitzstudios/vscode-js-debug/issues"
   },
   "scripts": {
     "compile": "gulp",

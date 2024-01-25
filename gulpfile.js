@@ -269,7 +269,6 @@ gulp.task('package:createVSIX', () =>
 gulp.task(
   'package:prepare',
   gulp.series(
-    'clean',
     'compile:static',
     'compile:build-scripts',
     'compile:dynamic',
